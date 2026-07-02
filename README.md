@@ -37,11 +37,6 @@ Trabalho com **sistemas autônomos de mineração** no projeto S11D/Vale, onde e
 ---
 
 ### 📌 Projeto em destaque
-
-**🗺️ Território de Campo** — App de gestão de territórios feito com Next.js, TypeScript, Supabase e Leaflet. Tem desenho de polígonos no mapa, marcação de pontos por GPS, controle de acesso por função e suporte a PWA. Nasceu de uma necessidade real e virou um projeto que eu tenho orgulho.
-
-> 💡 *Dica: dê um "pin" nos seus melhores repositórios em "Customize your pins" pra eles aparecerem aqui embaixo.*
-
 ---
 
 ### 📊 Um pouco de números
@@ -57,11 +52,6 @@ Trabalho com **sistemas autônomos de mineração** no projeto S11D/Vale, onde e
 
 ---
 
-### ☕ Quando não estou codando
-
-Provavelmente estou 🍳 cozinhando algo novo, assistindo 🎌 anime, ouvindo 🎶 City Pop, ou montando um time competitivo de 🔴 Pokémon VGC (a matemática de EVs é tão viciante quanto um pipeline de dados).
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=38BDF8" alt="profile views"/>
