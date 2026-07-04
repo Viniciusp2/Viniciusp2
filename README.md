@@ -71,31 +71,6 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 
 ---
 
-## 📊 Trainer Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Viniciusp2&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFD43B&amp;icon_color=E3350D&amp;text_color=ffffff"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusp2&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFD43B&amp;text_color=ffffff"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Viniciusp2&amp;hide_border=true&amp;background=0D1117&amp;stroke=FFD43B&amp;ring=FFD43B&amp;fire=E3350D&amp;currStreakLabel=FFD43B&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=888888"/>
-
-</div>
-
----
-
-## 🏆 Gym Badges (Trophies)
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Viniciusp2&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=6&amp;margin-h=6"/>
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -155,17 +130,6 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 </a>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Viniciusp2/Viniciusp2/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
 ---
 
 ## 📬 PokéGear (Contato)
