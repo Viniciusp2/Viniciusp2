@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Vinicius Ribas
 
-### Desenvolvedor Full Stack | Next.js • React • TypeScript • Node.js
+### Desenvolvedor Full Stack • Engenheiro de Software  | Next.js • React • TypeScript • Node.js
 
 Construindo aplicações modernas, escaláveis e focadas em experiência do usuário.
 
@@ -44,7 +44,7 @@ Tenho interesse em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,prisma,postgres,docker,git,github,vscode,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,prisma,postgres,docker,git,github,vscode,tailwind,mysql,java,c#,pandas" />
 
 </div>
 
@@ -77,21 +77,19 @@ https://github.com/Viniciusp2/barber-saas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Viniciusp2&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Viniciusp2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Viniciusp2&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Viniciusp2&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusp2&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusp2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 # 🎯 Atualmente
 
@@ -118,11 +116,11 @@ https://github.com/Viniciusp2/barber-saas
 
 <p align="center">
 
-<a href="mailto:seuemail@email.com">
+<a href="viniciusgvhrj@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/seu-linkedin">
+<a href="www.linkedin.com/in/vinícius-gonçalves-28b994149">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
