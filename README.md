@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFD43B,50:FF8C00,100:E3350D&amp;height=200&amp;section=header&amp;text=Vinicius%20Ribas&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Automation%20and%20Data&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
 <!-- ====== TYPING ANIMADO ====== -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=15&amp;duration=3200&amp;pause=900&amp;color=FFD43B&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Full+Stack+Developer+and+Automation+Engineer;Next.js+%7C+TypeScript+%7C+Python;Building+SaaS+and+Data+Pipelines;Gotta+Code+'Em+All!" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=15&amp;duration=3200&amp;pause=900&amp;color=FFD43B&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Full+Stack+Developer+and+Software+Engineer;Next.js+%7C+TypeScript+%7C+Python;Building+SaaS+and+Data+Pipelines;Gotta+Code+'Em+All!" />
 
 <br>
 
