@@ -1,8 +1,12 @@
 <!-- ====== HEADER ANIMADO ====== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFD43B,50:FF8C00,100:E3350D&amp;height=200&amp;section=header&amp;text=Vinicius%20Ribas&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Automation%20%26%20Data&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
+# ⚡ Vinicius Ribas
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=FFD43B&center=true&vCenter=true&width=900&lines=Pok%C3%A9mon+Trainer+%7C+Full+Stack+Developer;Building+Modern+SaaS+Applications;Next.js+%7C+React+%7C+TypeScript;Currently+Training+BarberSaaS+%F0%9F%92%88" />
+
+<br>
 <!-- ====== TYPING ANIMADO ====== -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=15&amp;duration=3200&amp;pause=900&amp;color=FFD43B&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Full+Stack+Developer+%26+Automation+Engineer;Next.js+%7C+TypeScript+%7C+Python;Building+SaaS+and+Data+Pipelines;Gotta+Code+'Em+All!" />
 
@@ -57,15 +61,15 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 
 <div align="center">
 
-| Pokémon | | Especialidade |
+| Pokémon | Especialidade |
 |:---:|:---|:---|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="50"/> | **Pikachu** | JavaScript / Fundamentos |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="50"/> | JavaScript / Fundamentos |
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="55"/> | **Charizard** | Next.js / React |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="50"/> | **Gengar** | TypeScript |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" width="55"/> | **Blastoise** | PostgreSQL / Prisma |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif" width="55"/> | **Metagross** | Arquitetura de Sistemas |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" width="50"/> | **Rotom** | DevOps &amp; Docker |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55"/> | **Snorlax** | Python / Data Analysis |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="50"/> | TypeScript |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" width="55"/> | PostgreSQL / Prisma |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif" width="55"/> | Arquitetura de Sistemas |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" width="50"/> | DevOps &amp; Docker |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55"/> | Python / Data Analysis |
 
 </div>
 
