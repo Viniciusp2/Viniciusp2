@@ -1,10 +1,10 @@
 <!-- ====== HEADER ANIMADO ====== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,50:FF8C00,100:E3350D&height=200&section=header&text=Vinicius%20Ribas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Automation%20%26%20Data&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFD43B,50:FF8C00,100:E3350D&amp;height=200&amp;section=header&amp;text=Vinicius%20Ribas&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Automation%20%26%20Data&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
 <!-- ====== TYPING ANIMADO ====== -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3200&pause=900&color=FFD43B&center=true&vCenter=true&width=820&lines=Full+Stack+Developer+%26+Automation+Engineer;Next.js+%7C+TypeScript+%7C+Python;Building+SaaS+and+Data+Pipelines;Gotta+Code+'Em+All!" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=15&amp;duration=3200&amp;pause=900&amp;color=FFD43B&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Full+Stack+Developer+%26+Automation+Engineer;Next.js+%7C+TypeScript+%7C+Python;Building+SaaS+and+Data+Pipelines;Gotta+Code+'Em+All!" />
 
 <br>
 
@@ -18,8 +18,8 @@
 <br><br>
 
 <!-- ====== BADGES DE STATUS ====== -->
-<img src="https://komarev.com/ghpvc/?username=Viniciusp2&label=Trainers%20Met&color=FFD43B&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Region-Brazil-success?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=Viniciusp2&amp;label=Trainers%20Met&amp;color=FFD43B&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Region-Brazil-success?style=for-the-badge&amp;logo=github"/>
 <img src="https://img.shields.io/badge/Main_Quest-BarberSaaS-E3350D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Leveling_Up-blue?style=for-the-badge"/>
 
@@ -47,7 +47,7 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,python,prisma,postgres,supabase,docker,tailwind,git,github,vscode,linux&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,python,prisma,postgres,supabase,docker,tailwind,git,github,vscode,linux&amp;perline=8"/>
 
 </div>
 
@@ -64,7 +64,7 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="50"/> | **Gengar** | TypeScript |
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" width="55"/> | **Blastoise** | PostgreSQL / Prisma |
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif" width="55"/> | **Metagross** | Arquitetura de Sistemas |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" width="50"/> | **Rotom** | DevOps & Docker |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" width="50"/> | **Rotom** | DevOps &amp; Docker |
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55"/> | **Snorlax** | Python / Data Analysis |
 
 </div>
@@ -75,12 +75,12 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Viniciusp2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD43B&icon_color=E3350D&text_color=ffffff"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusp2&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFD43B&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Viniciusp2&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFD43B&amp;icon_color=E3350D&amp;text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusp2&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFD43B&amp;text_color=ffffff"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Viniciusp2&hide_border=true&background=0D1117&stroke=FFD43B&ring=FFD43B&fire=E3350D&currStreakLabel=FFD43B&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888"/>
+<img src="https://streak-stats.demolab.com?user=Viniciusp2&amp;hide_border=true&amp;background=0D1117&amp;stroke=FFD43B&amp;ring=FFD43B&amp;fire=E3350D&amp;currStreakLabel=FFD43B&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=888888"/>
 
 </div>
 
@@ -90,7 +90,7 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Viniciusp2&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Viniciusp2&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=6&amp;margin-h=6"/>
 
 </div>
 
@@ -100,7 +100,7 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Viniciusp2&bg_color=0D1117&color=FFD43B&line=E3350D&point=ffffff&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20do%20Treinador"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Viniciusp2&amp;bg_color=0D1117&amp;color=FFD43B&amp;line=E3350D&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=Contribui%C3%A7%C3%B5es%20do%20Treinador"/>
 
 </div>
 
@@ -123,7 +123,7 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 - ✂️ Services CRUD
 - ⚙️ Dashboard
 - 📲 WhatsApp Integration *(em breve)*
-- 💳 Stripe & Mercado Pago *(em breve)*
+- 💳 Stripe &amp; Mercado Pago *(em breve)*
 - 🤖 AI Assistant *(futuro)*
 
 </td>
@@ -151,7 +151,7 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 <div align="center">
 
 <a href="https://github.com/Viniciusp2/barber-saas">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&amp;logo=github"/>
 </a>
 
 </div>
@@ -173,13 +173,13 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 <div align="center">
 
 <a href="mailto:viniciusgvhrj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-28b994149/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 <a href="https://github.com/Viniciusp2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github"/>
 </a>
 
 </div>
@@ -199,4 +199,4 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 </div>
 
 <!-- ====== FOOTER ANIMADO ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3350D,50:FF8C00,100:FFD43B&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:E3350D,50:FF8C00,100:FFD43B&amp;height=120&amp;section=footer" width="100%"/>
