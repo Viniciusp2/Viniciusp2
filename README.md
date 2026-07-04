@@ -1,122 +1,160 @@
 <div align="center">
 
-# 👋 Olá, eu sou Vinicius Ribas
+# ⚡ Vinicius Ribas
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Modern+SaaS+Applications;Next.js+•+React+•+TypeScript;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=FFD43B&center=true&vCenter=true&width=900&lines=Pok%C3%A9mon+Trainer+%7C+Full+Stack+Developer;Building+Modern+SaaS+Applications;Next.js+%7C+React+%7C+TypeScript;Currently+Training+BarberSaaS+%F0%9F%92%88" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Viniciusp2&style=for-the-badge&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/Viniciusp2?style=for-the-badge&color=0e75b6"/>
-<img src="https://img.shields.io/github/stars/Viniciusp2?affiliations=OWNER&style=for-the-badge&color=0e75b6"/>
-</p>
+<br>
 
-</div>
+<img src="https://media.tenor.com/k0A4M4A6wSAAAAAC/pokemon-pikachu.gif" width="220"/>
 
----
+<br><br>
 
-# 🚀 Sobre mim
-
-💻 Desenvolvedor Full Stack apaixonado por criar aplicações modernas, escaláveis e com excelente experiência de usuário.
-
-Atualmente estou desenvolvendo o **BarberSaaS**, uma plataforma SaaS completa para gestão de barbearias, utilizando tecnologias modernas do ecossistema JavaScript.
-
-### Atualmente focado em
-
-- 🚀 Desenvolvimento Full Stack
-- 💈 SaaS
-- ⚡ Next.js
-- 📘 TypeScript
-- 🐘 PostgreSQL
-- 🐳 Docker
-- 🤖 Inteligência Artificial
-- ☁️ Cloud
-
----
-
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216656960-57cc4c7f-f2da-4b8d-9d7e-0b1d6d68d3cb.gif" width="100%">
-
-</p>
-
-# 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,prisma,postgres,docker,git,github,tailwind,vscode,linux,vercel,supabase"/>
+<img src="https://img.shields.io/badge/Region-Brazil-success?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Main_Quest-BarberSaaS-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Up-Everyday-red?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💈 Projeto em Destaque
+# 🎮 Trainer Card
+
+```yaml
+Name: Vinicius Ribas
+Class: Full Stack Developer
+Region: Brazil 🇧🇷
+Current Quest: Build BarberSaaS
+Favorite Stack:
+  - Next.js
+  - React
+  - TypeScript
+  - Prisma
+  - PostgreSQL
+  - Docker
+```
+
+---
+
+# 🎒 PokéBag
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,prisma,postgres,docker,tailwind,supabase,git,github,vscode"/>
+
+</div>
+
+---
+
+# ⚔️ Pokémon Team
+
+| Pokémon | Skill |
+|---------|-------|
+| ⚡ Pikachu | JavaScript |
+| 🔥 Charizard | Next.js |
+| 👻 Gengar | TypeScript |
+| 🌊 Blastoise | PostgreSQL |
+| 🤖 Metagross | Architecture |
+| ⚙️ Rotom | DevOps & Docker |
+
+---
+
+# 🏆 Gym Badges
+
+| Badge | Status |
+|--------|--------|
+| 🏅 Google Auth | ✅ |
+| 🏅 Prisma ORM | ✅ |
+| 🏅 PostgreSQL | ✅ |
+| 🏅 Docker | ✅ |
+| 🏅 Multi Tenant | ✅ |
+| 🏅 CRUD | ✅ |
+| 🏅 Server Actions | ✅ |
+| 🏅 Booking System | 🟡 |
+| 🏅 WhatsApp API | 🔜 |
+| 🏅 Payments | 🔜 |
+
+---
+
+# 💈 Current Main Quest
 
 ## BarberSaaS
 
-Sistema SaaS moderno para gestão de barbearias.
+A complete SaaS platform for barbershops.
 
-</div>
+### Features
 
-### ✨ Funcionalidades
-
-- 🔐 Login com Google (Auth.js)
-- 🏢 Arquitetura Multi-Tenant
-- 📅 Agendamento Online
-- 👥 Gestão da Equipe
-- ✂️ Gestão de Serviços
-- ⚙️ Configurações da Barbearia
-- 📲 Integração com WhatsApp *(em desenvolvimento)*
-- 💳 Pagamentos *(em desenvolvimento)*
-- 🤖 IA para automação *(roadmap)*
+- 🔐 Google Authentication
+- 🏢 Multi Tenant
+- 📅 Booking System
+- 👥 Team Management
+- ✂️ Services CRUD
+- ⚙️ Dashboard
+- 📲 WhatsApp Integration *(Coming Soon)*
+- 💳 Stripe & Mercado Pago *(Coming Soon)*
+- 🤖 AI Assistant *(Future)*
 
 <div align="center">
-
-### 📸 Preview
 
 <img src="./assets/barbersaas.gif" width="900"/>
 
 </div>
 
-<p align="center">
-
-<a href="https://github.com/Viniciusp2/barber-saas">
-<img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216656967-d1b4b6d8-fb72-4e5d-8b74-4c6c1d6e9a9c.gif" width="100%">
-
-</p>
-
-# 🎯 Objetivos para 2026
-
-- ✅ Evoluir o BarberSaaS até produção
-- 📱 Desenvolver aplicações escaláveis
-- ☁️ Aprimorar conhecimentos em Cloud
-- 🏗️ Estudar Arquitetura de Software
-- 🤖 Aplicar IA em produtos reais
-- 🌎 Contribuir para projetos Open Source
-
----
-
-# 📊 GitHub
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viniciusp2&theme=github_dark"/>
+<a href="https://github.com/Viniciusp2/barber-saas">
+
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </div>
 
 ---
 
-# 🐍 Contribuições
+# 📜 Current Missions
+
+```text
+🟢 Complete Google Authentication
+
+🟢 Dashboard
+
+🟢 Services CRUD
+
+🟢 Team CRUD
+
+🟢 Multi Tenant
+
+🟡 Booking System
+
+🟡 Customer Portal
+
+⚪ WhatsApp Notifications
+
+⚪ Payments
+
+⚪ AI Assistant
+
+⚪ Mobile App
+```
+
+---
+
+# 📈 XP Progress
+
+```text
+█████████████████████░░░░░░░░░░ 72%
+
+Current Level:
+███████████████  Lv. 27
+
+Next Objective:
+Finish BarberSaaS MVP
+```
+
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -126,7 +164,19 @@ Sistema SaaS moderno para gestão de barbearias.
 
 ---
 
-# 📫 Contato
+# 🎵 Now Playing
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true"/>
+
+</div>
+
+> *(Opcional: remova esta seção caso não queira conectar o Spotify.)*
+
+---
+
+# 📬 PokéGear
 
 <div align="center">
 
@@ -142,14 +192,24 @@ Sistema SaaS moderno para gestão de barbearias.
 
 </a>
 
+<a href="https://github.com/Viniciusp2">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💙 Obrigado pela visita!
+<img src="https://media.tenor.com/R5rQH8M5M0QAAAAC/pokemon-pokemon-pixel.gif" width="250"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+software.;Sempre+aprendendo.;Sempre+construindo." />
+<br><br>
+
+### ⚡ "Every great Trainer starts with a single Pokémon. Every great Developer starts with a single commit."
+
+⭐ Thanks for visiting my profile!
 
 </div>
