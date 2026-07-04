@@ -1,88 +1,120 @@
+<!-- ====== HEADER ANIMADO ====== -->
 <div align="center">
 
-# ⚡ Vinicius Ribas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,50:FF8C00,100:E3350D&height=200&section=header&text=Vinicius%20Ribas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Automation%20%26%20Data&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=FFD43B&center=true&vCenter=true&width=900&lines=Pok%C3%A9mon+Trainer+%7C+Full+Stack+Developer;Building+Modern+SaaS+Applications;Next.js+%7C+React+%7C+TypeScript;Currently+Training+BarberSaaS+%F0%9F%92%88" />
+<!-- ====== TYPING ANIMADO ====== -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3200&pause=900&color=FFD43B&center=true&vCenter=true&width=820&lines=Full+Stack+Developer+%26+Automation+Engineer;Next.js+%7C+TypeScript+%7C+Python;Building+SaaS+and+Data+Pipelines;Gotta+Code+'Em+All!" />
 
 <br>
 
-<img src="https://media.tenor.com/k0A4M4A6wSAAAAAC/pokemon-pikachu.gif" width="220"/>
+<!-- ====== SPRITES ANIMADOS (POKEAPI) ====== -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="60"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="75"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/658.gif" width="70"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="75"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="65"/>
 
 <br><br>
 
+<!-- ====== BADGES DE STATUS ====== -->
+<img src="https://komarev.com/ghpvc/?username=Viniciusp2&label=Trainers%20Met&color=FFD43B&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Region-Brazil-success?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Main_Quest-BarberSaaS-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Level-Up-Everyday-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Main_Quest-BarberSaaS-E3350D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Leveling_Up-blue?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🎮 Trainer Card
+## 👾 Sobre o Treinador
 
-```yaml
-Name: Vinicius Ribas
-Class: Full Stack Developer
-Region: Brazil 🇧🇷
-Current Quest: Build BarberSaaS
-Favorite Stack:
-  - Next.js
-  - React
-  - TypeScript
-  - Prisma
-  - PostgreSQL
-  - Docker
-```
+<img align="right" width="150" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif"/>
+
+Software Engineer com foco em construir produtos web modernos e automatizar o que der pra automatizar. No dia a dia trabalho com sistemas de automação industrial (SCADA, PLC) e análise de dados; nas horas vagas evoluo projetos full stack e monto times competitivos de Pokémon VGC.
+
+- 🔭 Trabalhando no MVP do **BarberSaaS** (SaaS multi-tenant)
+- 🌱 Estudando **Data Science**, arquitetura de sistemas e segurança OT/ICS
+- ⚡ Stack favorita: **Next.js, TypeScript, Python, PostgreSQL**
+- 🎯 Objetivo: evoluir para funções de **Data / Full Stack Sênior**
+- 🎮 Fora do código: **VGC, City Pop e cozinha**
+
+<br clear="right"/>
 
 ---
 
-# 🎒 PokéBag
+## 🎒 PokéBag (Stack)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,prisma,postgres,docker,tailwind,supabase,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,python,prisma,postgres,supabase,docker,tailwind,git,github,vscode,linux&perline=8"/>
 
 </div>
 
 ---
 
-# ⚔️ Pokémon Team
+## ⚔️ Pokémon Team (Skills)
 
-| Pokémon | Skill |
-|---------|-------|
-| ⚡ Pikachu | JavaScript |
-| 🔥 Charizard | Next.js |
-| 👻 Gengar | TypeScript |
-| 🌊 Blastoise | PostgreSQL |
-| 🤖 Metagross | Architecture |
-| ⚙️ Rotom | DevOps & Docker |
+<div align="center">
 
----
+| Pokémon | | Especialidade |
+|:---:|:---|:---|
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="50"/> | **Pikachu** | JavaScript / Fundamentos |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="55"/> | **Charizard** | Next.js / React |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="50"/> | **Gengar** | TypeScript |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" width="55"/> | **Blastoise** | PostgreSQL / Prisma |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif" width="55"/> | **Metagross** | Arquitetura de Sistemas |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" width="50"/> | **Rotom** | DevOps & Docker |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55"/> | **Snorlax** | Python / Data Analysis |
 
-# 🏆 Gym Badges
-
-| Badge | Status |
-|--------|--------|
-| 🏅 Google Auth | ✅ |
-| 🏅 Prisma ORM | ✅ |
-| 🏅 PostgreSQL | ✅ |
-| 🏅 Docker | ✅ |
-| 🏅 Multi Tenant | ✅ |
-| 🏅 CRUD | ✅ |
-| 🏅 Server Actions | ✅ |
-| 🏅 Booking System | 🟡 |
-| 🏅 WhatsApp API | 🔜 |
-| 🏅 Payments | 🔜 |
+</div>
 
 ---
 
-# 💈 Current Main Quest
+## 📊 Trainer Stats
 
-## BarberSaaS
+<div align="center">
 
-A complete SaaS platform for barbershops.
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Viniciusp2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD43B&icon_color=E3350D&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusp2&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFD43B&text_color=ffffff"/>
 
-### Features
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Viniciusp2&hide_border=true&background=0D1117&stroke=FFD43B&ring=FFD43B&fire=E3350D&currStreakLabel=FFD43B&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888"/>
+
+</div>
+
+---
+
+## 🏆 Gym Badges (Trophies)
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Viniciusp2&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Viniciusp2&bg_color=0D1117&color=FFD43B&line=E3350D&point=ffffff&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20do%20Treinador"/>
+
+</div>
+
+---
+
+## 💈 Main Quest: BarberSaaS
+
+> Plataforma SaaS completa para barbearias. Multi-tenant, do agendamento ao pagamento.
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Features**
 
 - 🔐 Google Authentication
 - 🏢 Multi Tenant
@@ -90,71 +122,43 @@ A complete SaaS platform for barbershops.
 - 👥 Team Management
 - ✂️ Services CRUD
 - ⚙️ Dashboard
-- 📲 WhatsApp Integration *(Coming Soon)*
-- 💳 Stripe & Mercado Pago *(Coming Soon)*
-- 🤖 AI Assistant *(Future)*
+- 📲 WhatsApp Integration *(em breve)*
+- 💳 Stripe & Mercado Pago *(em breve)*
+- 🤖 AI Assistant *(futuro)*
 
-<div align="center">
+</td>
+<td width="45%" valign="top">
 
-<img src="./assets/barbersaas.gif" width="900"/>
+**Progresso das Missões**
 
-</div>
+| Missão | Status |
+|:--|:--:|
+| Google Auth | ✅ |
+| Dashboard | ✅ |
+| Multi Tenant | ✅ |
+| Services CRUD | ✅ |
+| Team CRUD | ✅ |
+| Booking System | 🟡 |
+| Customer Portal | 🟡 |
+| WhatsApp API | 🔜 |
+| Payments | 🔜 |
+| AI Assistant | ⚪ |
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://github.com/Viniciusp2/barber-saas">
-
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
 </div>
 
 ---
 
-# 📜 Current Missions
-
-```text
-🟢 Complete Google Authentication
-
-🟢 Dashboard
-
-🟢 Services CRUD
-
-🟢 Team CRUD
-
-🟢 Multi Tenant
-
-🟡 Booking System
-
-🟡 Customer Portal
-
-⚪ WhatsApp Notifications
-
-⚪ Payments
-
-⚪ AI Assistant
-
-⚪ Mobile App
-```
-
----
-
-# 📈 XP Progress
-
-```text
-█████████████████████░░░░░░░░░░ 72%
-
-Current Level:
-███████████████  Lv. 27
-
-Next Objective:
-Finish BarberSaaS MVP
-```
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -164,52 +168,35 @@ Finish BarberSaaS MVP
 
 ---
 
-# 🎵 Now Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true"/>
-
-</div>
-
-> *(Opcional: remova esta seção caso não queira conectar o Spotify.)*
-
----
-
-# 📬 PokéGear
+## 📬 PokéGear (Contato)
 
 <div align="center">
 
 <a href="mailto:viniciusgvhrj@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
-
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-28b994149/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
-
 <a href="https://github.com/Viniciusp2">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://media.tenor.com/R5rQH8M5M0QAAAAC/pokemon-pokemon-pixel.gif" width="250"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="60"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" width="80"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/38.gif" width="65"/>
 
-<br><br>
+<br>
 
-### ⚡ "Every great Trainer starts with a single Pokémon. Every great Developer starts with a single commit."
-
-⭐ Thanks for visiting my profile!
+### ⚡ "Todo grande Treinador começa com um único Pokémon. Todo grande Dev começa com um único commit."
 
 </div>
+
+<!-- ====== FOOTER ANIMADO ====== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3350D,50:FF8C00,100:FFD43B&height=120&section=footer" width="100%"/>
