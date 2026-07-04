@@ -49,7 +49,7 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,python,prisma,postgres,supabase,docker,tailwind,git,github,linux,vscode,vercel,cloudflare,npm,bun,postman,figma,md,bash&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,python,java,prisma,postgres,supabase,docker,tailwind,git,github,linux,vscode,vercel,cloudflare,npm,c,postman,figma,bash&perline=8"/>
 </div>
 
 ---
