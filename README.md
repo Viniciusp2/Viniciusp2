@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="80"/>
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="85"/>
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="70"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/253.gif" width="65"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/254.gif" width="65"/>
 
 
 <br><br>
@@ -49,8 +49,7 @@ Software Engineer com foco em construir produtos web modernos e automatizar o qu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,python,prisma,postgres,supabase,docker,tailwind,git,github,vscode,linux&amp;perline=8"/>
-
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,python,prisma,postgres,supabase,docker,tailwind,git,github,linux,vscode,vercel,cloudflare,npm,bun,postman,figma,md,bash&perline=8"/>
 </div>
 
 ---
